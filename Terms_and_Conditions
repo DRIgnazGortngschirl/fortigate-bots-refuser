@@ -1,0 +1,30 @@
+--------------------------------------------------------------------------------------------
+| Please read the following terms and conditions "Terms and Conditions" carefully before   |
+| using this service/srcipt "fortigate-bot-refuser". By executing or using this            |
+| service/srcipt, or any functions, you agree to the following Terms and Conditions which  | 
+| shall constitute a legally binding agreement between you and this service/srcipt. If you |
+| do not agree to a term or condition set out in these Terms and Conditions, you should    |
+| not execute or use this service/srcipt.					           |
+|											   |
+|------------------------------------------------------------------------------------------|
+|											   |
+| 1. We are in no way responsible for any misbehaviour of the service/srcipt.		   |
+|                                                                                          |
+| The service/srcipt has been tested ONLY on a FortiGate 30E running on v6.2.3 build1066   |
+| and has been run from Debian GNU/Linux 10 (buster) 4.19.132-1. As configuration varies   |
+| on different FortiOS versions and operating systems we can't garentee that the           |
+| service/srcipt works as intendet!                                                        |
+|											   |
+| 2. If everything works fine rule 1, still applies in case something happens		   |
+|                                                                                          |
+|                                                                                          |
+|                                                                                          |
+|                                                                                          |
+|                                                                                          |
+|                                                                                          |
+|                                                                                          |
+| Change this after you read the Terms and Conditions carefully to YES ----|               |
+|                                                                          |	           |
+|							                  \/               |
+-------------------------------------------------------------------------------------------
+I have read the Terms and Conditions carefully of "fortigate-bot-refuser" NO
